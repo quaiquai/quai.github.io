@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Mapping Materials to Curriculum Standards for Design, Alignment, Audit, and Search"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-paper-title-number-2
+excerpt: 'TTo address these issues, we present CS Materials, an open-source resource targeted at computing educators for designing and analyzing courses for coverage of recommended guidelines, and alignment between the various components within a course, between sections of the same course, or course sequences within a program'
+date: 2021-03-01
+venue: 'SIGCSE 21'
+paperurl: 'https://dl.acm.org/doi/10.1145/3408877.3432388'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Computing proficiency is an increasingly vital component of the modern workforce, and computer science programs are faced with the challenges of engaging and retaining students to meet the growing need in that sector. However, administrators and instructors often find themselves either reinventing the wheel or relying too heavily on intuition, despite the availability of national curriculum standards. To address these issues, we present CS Materials, an open-source resource targeted at computing educators for designing and analyzing courses for coverage of recommended guidelines, and alignment between the various components within a course, between sections of the same course, or course sequences within a program. The system works by facilitating mapping educational materials to national curriculum standards. A side effect of the system is that it centralizes the design of the courses and the materials used therein. The curriculum guidelines act as a lingua franca that allows examination of and comparison between materials and courses. More relevant to instructors, the system enables a more precise search for materials that match particular topics and learning outcomes, and dissemination of high quality materials and course designs. This paper discusses the system, and analyzes the costs and benefits of its features and usage. While adding courses and materials requires some overhead, having a centralized repository of courses and materials with a shared structure and vocabulary serves students, instructors, and administrators, by promoting a data-driven approach to rigor and alignment with national standards.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://dl.acm.org/doi/10.1145/3408877.3432388)
+
