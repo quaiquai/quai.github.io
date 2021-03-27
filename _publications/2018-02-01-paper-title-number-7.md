@@ -1,5 +1,5 @@
 ---
-title: "Real-World Data, Interactive Games and Data Structure Visualizations in Early CS Courses Using BRIDGES"
+title: "Visualization, Assessment and Analytics in Data Structures Learning Modules"
 collection: publications
 permalink: /publication/2018-paper-title-number-7
 excerpt: 'Interactive textbooks are more structured, contain smaller amounts of textual material, and integrate media and assessment content. While these are an arguable improvement over traditional methods of teaching, issues of academic integrity and engagement remain.'
