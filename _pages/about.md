@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello My Name is Matthew McQuaigue and I am a PhD Student at the University of North Carolina at Charlotte. My focus area of research is: computer graphics, AR/VR rendering perception and interactive learning technologies. Recent work is on the subject of depth perception in virtual enviornments focused on the issues and solutions to this important topic.
-In my free time I like to go to the gym and play video games.
+Hello My Name is Matthew McQuaigue and I am a PhD Student at the University of North Carolina at Charlotte. My focus area of research is: computer graphics, AR/VR rendering perception and interactive learning technologies. My current work is in investigating depth perception in virtual and augmented environments and how the combination of depth cues and graphical fidelity/information affect accuracy.
+
