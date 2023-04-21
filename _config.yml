@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "Matthew McQuaigue"
   avatar           : "profile_picture.jpg"
-  bio              : "PhD Student and Research Assistant at The University of North Carolina ata Charlotte"
-  location         : "Location"
+  bio              : "PhD Student and Research Assistant at The University of North Carolina at Charlotte"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Matthew-Mcquaigue"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/quaiquai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thequaiquai"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
